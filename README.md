@@ -89,12 +89,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MehakRamzan&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehakRamzan&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehakRamzan&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/MehakRamzan?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/MehakRamzan?label=Stars&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=MehakRamzan&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
